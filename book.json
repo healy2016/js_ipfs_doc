@@ -1,0 +1,20 @@
+{
+    "language" : "zh-hans",
+    "plugins": ["-lunr", "-search", "-sharing","search-pro"],
+    "pluginsConfig": {
+	    "sharing": {
+	        "weibo": true,
+	        "facebook": false,
+	        "twitter": false,
+	        "google": false,
+	        "instapaper": false,
+	        "vk": false,
+	        "all": ["weibo"]
+	    },
+	    "fontsettings": {
+               "theme": "sepia",
+               "family": "serif",
+               "size":  1
+            }
+	}
+}
